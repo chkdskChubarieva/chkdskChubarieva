@@ -32,26 +32,19 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td width="60%" align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chkdskChubarieva&theme=dark&hide_border=false" />
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=chkdskChubarieva&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
       </td>
-      <td width="40%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkdskChubarieva&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=chkdskChubarieva&theme=dark&hide_border=true" alt="Streak Stats">
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkdskChubarieva&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
       </td>
     </tr>
   </table>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chkdskChubarieva&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=chkdskChubarieva&theme=dark&hide_border=true" alt="Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkdskChubarieva&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </p>
 
 ## 🏆 GitHub Trophies

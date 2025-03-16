@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+repositorio!!!;Estudiante+de+Ing.Sistemas;Motivado+a+aprender+nuevas+cosas!;"></a>
-</p>
-
-<p align="center">
   <a href="https://facebook.com/https://www.facebook.com/share/159uatL1cC/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
   </a>
@@ -18,13 +14,16 @@
   </a>
 </p>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+repositorio!!!;Estudiante+de+Ing.Sistemas;Motivado+a+aprender+nuevas+cosas!;"></a>
+</p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías</b>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,php,laravel,python,java,flask,mysql,postgres,apache,git,matplotlib,pandas,numpy&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,php,laravel,python,java,flask,mysql,postgres,apache,git,matplotlib,pandas,numpy&perline=6)](https://skillicons.dev)
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas Github </b>
 ![](https://github-readme-stats.vercel.app/api?username=chkdskChubarieva&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=chkdskChubarieva&theme=dark&hide_border=true)<br/>

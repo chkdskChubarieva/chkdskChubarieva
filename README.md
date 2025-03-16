@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://facebook.com/https://www.facebook.com/share/159uatL1cC/">
+  <a href="https://www.facebook.com/christian.chubarieva.9/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://discord.com/users/christianChubarieva#0140">

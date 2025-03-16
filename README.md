@@ -3,13 +3,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+repositorio!!!;++;Estudiante+de+Ing.Sistemas,;Motivado+a+aprender+nuevas+cosas!,;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+repositorio!!!;Estudiante+de+Ing.Sistemas;Motivado+a+aprender+nuevas+cosas!;"></a>
 </p>
-<br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<p align="center">
+  <a href="https://facebook.com/https://www.facebook.com/share/159uatL1cC/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://discord.com/users/christianChubarieva#0140">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="mailto:christian.chubarieva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/159uatL1cC/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/christianChubarieva#0140) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:christian.chubarieva@gmail.com) 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br> 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías</b>
 <br>

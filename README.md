@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/chkdskChubarieva/chkdskChubarieva/blob/cd1fb63d6b79ffb344b00c8e68a999feaf76041b/assets/github-header-image.png" width="80%" alt="Mi Banner">
+  <img src="https://github.com/chkdskChubarieva/chkdskChubarieva/blob/cd1fb63d6b79ffb344b00c8e68a999feaf76041b/assets/github-header-image.png" width="60%" alt="Mi Banner">
 </p>
 
 <p align="center">
@@ -26,7 +26,9 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,laravel,python,java,flask,mysql,postgres,git" alt="My Skills">
   </a>
 </p>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas Github </b>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chkdskChubarieva&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </p>

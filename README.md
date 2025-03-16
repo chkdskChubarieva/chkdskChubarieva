@@ -32,7 +32,7 @@
 <p align="center">
   <table align="center">
     <tr>
-      <td colspan="2" align="center">
+      <td colspan="3" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=chkdskChubarieva&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
       </td>
     </tr>
@@ -43,16 +43,14 @@
       <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkdskChubarieva&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
       </td>
+      <td align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=chkdskChubarieva&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+      </td>
     </tr>
   </table>
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chkdskChubarieva&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p>
-
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=chkdskChubarieva&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 </p>

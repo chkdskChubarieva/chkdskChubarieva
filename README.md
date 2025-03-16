@@ -1,3 +1,4 @@
+![Mi Banner](https://raw.githubusercontent.com/chkdskChubarieva/mi-repo/main/assets/banner.png)
 
 ## 🌐 Redes:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/159uatL1cC/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:christian.chubarieva@gmail.com) 

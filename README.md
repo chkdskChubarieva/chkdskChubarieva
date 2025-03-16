@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/chkdskChubarieva/chkdskChubarieva/blob/cd1fb63d6b79ffb344b00c8e68a999feaf76041b/assets/github-header-image.png" width="60%" alt="Mi Banner">
+  <img src="https://github.com/chkdskChubarieva/chkdskChubarieva/blob/cd1fb63d6b79ffb344b00c8e68a999feaf76041b/assets/github-header-image.png" width="70%" alt="Mi Banner">
 </p>
 
 <p align="center">
@@ -28,6 +28,19 @@
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas Github </b>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td width="60%" align="center">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chkdskChubarieva&theme=dark&hide_border=false" />
+      </td>
+      <td width="40%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chkdskChubarieva&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chkdskChubarieva&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
